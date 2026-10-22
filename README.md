@@ -1,4 +1,4 @@
-# Momo Framework
+# MOMO FRAMEWORK
 
 > **Build with PHP, Run like Go.** > Скорость разработки PHP × Производительность C-расширений.
 
